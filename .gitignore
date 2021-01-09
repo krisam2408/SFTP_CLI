@@ -1,0 +1,6 @@
+
+appconfig.default.json
+/bin
+/.vs
+/obj
+/packages
